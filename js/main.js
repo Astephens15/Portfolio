@@ -224,14 +224,14 @@ function clickedux() {
   var e = $('#slider');
   console.log(e);
   e.css('background-image','url(https://images.unsplash.com/photo-1535598745644-bc7913bb1a2a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80)');
-  $('#headertext').innerText("")
+  $('#headertext').innerText("Adobe friendly, Wireframing, Sitemapping, Personas, Researching")
 }
 function clickedhtml() {
   console.log("clickedhtml");
   var e = $('#slider');
   console.log(e);
   e.css('background-image','url(https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)');
-  $('#headertext').innerText("")
+  $('#headertext').innerText("I am very fluent in HTML")
 }
 function clickedcss() {
   console.log("clickedcss");
