@@ -231,16 +231,19 @@ function clickedhtml() {
   var e = $('#slider');
   console.log(e);
   e.css('background-image','url(https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)');
+  $('#headertext').innerText("")
 }
 function clickedcss() {
   console.log("clickedcss");
   var e = $('#slider');
   console.log(e);
   e.css('background-image','url(https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80)');
+  $('#headertext').innerText("")
 }
 function clickedjs() {
   console.log("clickedjs");
   var e = $('#slider');
   console.log(e);
   e.css('background-image', 'url(https://images.unsplash.com/photo-1527427337751-fdca2f128ce5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)');
+  $('#headertext').innerText("")
 }
