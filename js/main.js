@@ -224,7 +224,7 @@ function clickedux() {
   var e = $('#slider');
   console.log(e);
   e.css('background-image','url(https://images.unsplash.com/photo-1535598745644-bc7913bb1a2a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80)');
-  $('#headertext').innerText("Adobe friendly, Wireframing, Sitemapping, Personas, Researching")
+  $('#headertext').Text("Adobe friendly, Wireframing, Sitemapping, Personas, Researching")
 }
 function clickedhtml() {
   console.log("clickedhtml");
