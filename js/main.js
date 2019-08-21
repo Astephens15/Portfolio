@@ -231,19 +231,19 @@ function clickedhtml() {
   var e = $('#slider');
   console.log(e);
   e.css('background-image','url(https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)');
-  $('#headertext').innerText("I am very fluent in HTML")
+  $('#headertext').Text("I am very fluent in HTML")
 }
 function clickedcss() {
   console.log("clickedcss");
   var e = $('#slider');
   console.log(e);
   e.css('background-image','url(https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80)');
-  $('#headertext').innerText("Very Fluent")
+  $('#headertext').Text("Very Fluent")
 }
 function clickedjs() {
   console.log("clickedjs");
   var e = $('#slider');
   console.log(e);
   e.css('background-image', 'url(https://images.unsplash.com/photo-1527427337751-fdca2f128ce5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)');
-  $('#headertext').innerText("Javascript is the duct tape of the Internet.")
+  $('#headertext').Text("Javascript is the duct tape of the Internet.")
 }
