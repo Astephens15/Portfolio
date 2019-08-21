@@ -224,26 +224,26 @@ function clickedux() {
   var e = $('#slider');
   console.log(e);
   e.css('background-image','url(https://images.unsplash.com/photo-1535598745644-bc7913bb1a2a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80)');
-  $('#headertext').Text("Adobe friendly, Wireframing, Sitemapping, Personas, Researching")
+  $('#headertext').text("Adobe friendly, Wireframing, Sitemapping, Personas, Researching")
 }
 function clickedhtml() {
   console.log("clickedhtml");
   var e = $('#slider');
   console.log(e);
   e.css('background-image','url(https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)');
-  $('#headertext').Text("I am very fluent in HTML")
+  $('#headertext').text("I am very fluent in HTML")
 }
 function clickedcss() {
   console.log("clickedcss");
   var e = $('#slider');
   console.log(e);
   e.css('background-image','url(https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80)');
-  $('#headertext').Text("Very Fluent")
+  $('#headertext').text("Very Fluent")
 }
 function clickedjs() {
   console.log("clickedjs");
   var e = $('#slider');
   console.log(e);
   e.css('background-image', 'url(https://images.unsplash.com/photo-1527427337751-fdca2f128ce5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)');
-  $('#headertext').Text("Javascript is the duct tape of the Internet.")
+  $('#headertext').text("Javascript is the duct tape of the Internet.")
 }
